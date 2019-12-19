@@ -80,6 +80,17 @@ NutellaLicka
 
 
 
+
+
+
+
+
+
+
+
+
+---
+
 ### Shout outs
 I just wanted to use this as a place to shed light on the hard work that other NN's have been doing. If you're looking for other NN's to vote for, or would like to learn more about NN's in the ecosystem, check out the efforts from the people below. There are many more quietly achieving a lot throughout the ecosystem and to those, I thank you as well.
 
