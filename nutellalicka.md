@@ -20,10 +20,10 @@ BTC: `17iWaZDPursCC78EpnKpU2Kak4VwvgDxug` |
 KMD: `RFzhf56gWgfmG7VSHxJwZYenWKxYdHhxUh` |
 
 #### NN 3rd Party
-##### KMD: `RVQnigQucDRpYGKikAmjSKf7KdsAZYmZHL` |
-##### Game: `GdyX4HrZzFEYYjFpCwSimZfoUYCQuTFen5` |
-##### EMC2: `EdHW8kN8SLvATZZP5qn8LwJsL1uhM6C9Qg` |
-##### Gin: `GdyX4HrZzFEYYjFpCwSimZfoUYCQuTFen5`
+KMD: `RVQnigQucDRpYGKikAmjSKf7KdsAZYmZHL` |
+Game: `GdyX4HrZzFEYYjFpCwSimZfoUYCQuTFen5` |
+EMC2: `EdHW8kN8SLvATZZP5qn8LwJsL1uhM6C9Qg` |
+Gin: `GdyX4HrZzFEYYjFpCwSimZfoUYCQuTFen5`
 
 ## Community Fund
 As commited in my NN proposal, I have been putting 15% of my NN mining rewards towards community project donations. Below are the details of my donations, with specific details of each. I realised I wasn't donating the full 15% up until Dec 19 and rectified the issue with another payment (the 5% I had missed for those months).
@@ -33,7 +33,8 @@ I have been donating not only my time, but also my NN funds, towards the KMD com
 #### CHIPS DONATION DETAILS
 CHIPS Multi-Sig Donation Address: [bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS](http://kmd.explorer.dexstats.info/address/bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS)
 
-As of 20th Dec 2019:
+As of 20th Dec 2019
+
 Blocks found:
 2475
 
