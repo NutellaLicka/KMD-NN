@@ -48,21 +48,25 @@ Blocks found:
 
 20 Dec 19: 144.495 (5%) [66dd71d69e5ba51847d74ba8deab5e7eb4e393fcafb54d17e2f2feeb24b2ba7d](http://kmd.explorer.dexstats.info/tx/66dd71d69e5ba51847d74ba8deab5e7eb4e393fcafb54d17e2f2feeb24b2ba7d)
 
+--
 
 12 Oct 19: 124.43 (10%) [09c24545831e585bdd407da596b224da172895ca641df2ad62c17af71ecff5c5](http://kmd.explorer.dexstats.info/tx/09c24545831e585bdd407da596b224da172895ca641df2ad62c17af71ecff5c5)
 
 20 Dec 19: 62.215 (5%) [f1fc38f64cf62019954438d080afe836d049ad1acc50cc36ac2371ca6a7070e8](http://kmd.explorer.dexstats.info/tx/f1fc38f64cf62019954438d080afe836d049ad1acc50cc36ac2371ca6a7070e8)
 
+--
 
 31 Oct 19: 92.88 (10%) [59b0ff0a28d6e904259d9b5b8c862ad77dfc509cc33c3dfd8d0a87ccba3ad6ae](http://kmd.explorer.dexstats.info/tx/59b0ff0a28d6e904259d9b5b8c862ad77dfc509cc33c3dfd8d0a87ccba3ad6ae)
 
 20 Dec 19: 46.44 (5%) [b3b026143841d0471ea27eff1e79aef13104da54dababe8b586b936456fd29c1](http://kmd.explorer.dexstats.info/tx/b3b026143841d0471ea27eff1e79aef13104da54dababe8b586b936456fd29c1)
 
+--
 
 26 Nov 19: ‭118.7 (10%) [a4e4c391b988cdb963c03bfcf6f6d75883e8de265ca5e29545c12b265a2cc211](http://kmd.explorer.dexstats.info/tx/a4e4c391b988cdb963c03bfcf6f6d75883e8de265ca5e29545c12b265a2cc211)
 
 20 Dec 19: 59.35 (5%) [925f7908acd109a181ee245d05c311cb95473a4285b2be07017114f1506eea63](http://kmd.explorer.dexstats.info/tx/925f7908acd109a181ee245d05c311cb95473a4285b2be07017114f1506eea63)
 
+--
 
 20 Dec 19: 176.25 (15%) [dcc9db15046c1d360edbe14832bff43afbb9d34155fe7c32b18c03326f6adc75](http://kmd.explorer.dexstats.info/tx/dcc9db15046c1d360edbe14832bff43afbb9d34155fe7c32b18c03326f6adc75)
 
@@ -73,3 +77,17 @@ I hope this provides KMD ecosystem members with a clearer picture of what I have
 Cheers,
 
 NutellaLicka
+
+
+
+### Shout outs
+I just wanted to use this as a place to shed light on the hard work that other NN's have been doing. If you're looking for other NN's to vote for, or would like to learn more about NN's in the ecosystem, check out the efforts from the people below. There are many more quietly achieving a lot throughout the ecosystem and to those, I thank you as well.
+
+#### SHossain#0007
+For your tireless efforts to keep the NN network running smoothly. Although labelled with a "team" tagged, people may not realise you donate most of your time and effort.
+
+#### hyperDEX#6586
+Although currently not a NN, you have been in the past. A shoutout for generating huge amounts of development in the CHIPS community.
+
+#### CHMEX#0686
+The quiet achiever. Your dextstats website and explorers are invaluable.
