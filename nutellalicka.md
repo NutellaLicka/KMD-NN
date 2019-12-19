@@ -16,8 +16,8 @@ I have been an active member of the KMD community and have been accessible and s
 
 ## Addresses
 #### NN Main Address:
-BTC: `17iWaZDPursCC78EpnKpU2Kak4VwvgDxug`
-KMD: `RFzhf56gWgfmG7VSHxJwZYenWKxYdHhxUh`
+BTC: `17iWaZDPursCC78EpnKpU2Kak4VwvgDxug` |
+KMD: `RFzhf56gWgfmG7VSHxJwZYenWKxYdHhxUh` |
 
 #### NN 3rd Party
 KMD: `RVQnigQucDRpYGKikAmjSKf7KdsAZYmZHL`
