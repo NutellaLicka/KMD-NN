@@ -7,13 +7,6 @@ I will use this repo to list relevant KMD NN activities, in order to provide mor
 
 #### Region: Southern Hemisphere
 
-## Information Updates
-Unfortunately, unlike I proposed, I was only able to get my server located in Melbourne, Australia. This seems to be having a negative affect on my notarising ability, due to the ping to other nodes throughout the world. It is a known issue of iguana that the worse the connectivity/ping, the less likely you will participate in notarisations. This issue is being worked on by iguana devs, albeit slowly.
-
-During the year, I had to close my KMD ecosystem mining pool, minethechains.com. I had my pool running for just under a year, until Nov 19. Unfortunately it was being heavily underutilised and cost quite a bit to continute to run. I believe my funds and time were best allocated toward other parts of the ecosystem.
-
-I have been an active member of the KMD community and have been accessible and swiftly updated my node for every major KMD update. I have been amongst the first NN's to add coins to the dPoW mechanism when needed. 
-
 ## Addresses
 #### NN Main Address:
 BTC: `17iWaZDPursCC78EpnKpU2Kak4VwvgDxug` 
@@ -28,6 +21,14 @@ Game: `GdyX4HrZzFEYYjFpCwSimZfoUYCQuTFen5`
 EMC2: `EdHW8kN8SLvATZZP5qn8LwJsL1uhM6C9Qg` 
 
 Gin: `GdyX4HrZzFEYYjFpCwSimZfoUYCQuTFen5`
+
+
+## Information Updates
+Unfortunately, unlike I proposed, I was only able to get my server located in Melbourne, Australia. This seems to be having a negative affect on my notarising ability, due to the ping to other nodes throughout the world. It is a known issue of iguana that the worse the connectivity/ping, the less likely you will participate in notarisations. This issue is being worked on by iguana devs, albeit slowly.
+
+During the year, I had to close my KMD ecosystem mining pool, minethechains.com. I had my pool running for just under a year, until Nov 19. Unfortunately it was being heavily underutilised and cost quite a bit to continute to run. I believe my funds and time were best allocated toward other parts of the ecosystem.
+
+I have been an active member of the KMD community and have been accessible and swiftly updated my node for every major KMD update. I have been amongst the first NN's to add coins to the dPoW mechanism when needed. 
 
 ## Community Fund
 As commited in my NN proposal, I have been putting 15% of my NN mining rewards towards community project donations. Below are the details of my donations, with specific details of each. I realised I wasn't donating the full 15% up until Dec 19 and rectified the issue with another payment (the 5% I had missed for those months).
