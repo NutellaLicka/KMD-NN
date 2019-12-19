@@ -3,7 +3,7 @@ I will use this repo to list relevant KMD NN activities, in order to provide mor
 
 # NutellaLicka
 
-#### [My KMD NN Proposal] (https://github.com/KomodoPlatform/NotaryNodes/edit/master/notarynodes/nutellalicka/)
+#### [My KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/edit/master/notarynodes/nutellalicka/)
 
 #### Region: Southern Hemisphere
 
@@ -52,6 +52,9 @@ Blocks found:
 
 20 Dec 19: 176.25 (15%) [dcc9db15046c1d360edbe14832bff43afbb9d34155fe7c32b18c03326f6adc75](http://kmd.explorer.dexstats.info/tx/dcc9db15046c1d360edbe14832bff43afbb9d34155fe7c32b18c03326f6adc75)
 
-Total Donated: 1113.75 KMD
+#### Total Donated: 1113.75 KMD
 
 I hope this provides KMD ecosystem members with a clearer picture of what I have been up to, and how I have been contributing, whilst a KMD Notary Node. If you are considering who to vote for in future KMD NN elections, please take this information into account.
+
+Cheers,
+NutellaLicka
