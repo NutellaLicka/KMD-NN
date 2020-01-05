@@ -71,7 +71,11 @@ Blocks found:
 
 20 Dec 19: 176.25 (15%) [dcc9db15046c1d360edbe14832bff43afbb9d34155fe7c32b18c03326f6adc75](http://kmd.explorer.dexstats.info/tx/dcc9db15046c1d360edbe14832bff43afbb9d34155fe7c32b18c03326f6adc75)
 
-#### Total Donated: 1113.75 KMD
+--
+
+06 Jan 20: 132.3‬ (15%) [fcb16324a46f0221f671ff763537f8954651606dd02829dfc0e8e2a866e46f23](http://kmd.explorer.dexstats.info/tx/fcb16324a46f0221f671ff763537f8954651606dd02829dfc0e8e2a866e46f23)
+
+#### Total Donated: 1246.05 KMD
 
 I hope this provides KMD ecosystem members with a clearer picture of what I have been up to, and how I have been contributing, whilst a KMD Notary Node. If you are considering who to vote for in future KMD NN elections, please take this information into account.
 
