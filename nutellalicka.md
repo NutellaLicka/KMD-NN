@@ -3,7 +3,7 @@ I will use this repo to list relevant KMD NN activities, in order to provide mor
 
 # NutellaLicka
 
-#### [My KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/edit/master/notarynodes/nutellalicka/)
+#### [My KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season3/notarynodes/nutellalicka)
 
 #### Region: Southern Hemisphere
 
