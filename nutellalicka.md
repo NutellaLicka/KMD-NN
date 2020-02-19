@@ -3,7 +3,7 @@ I will use this repo to list relevant KMD NN activities, in order to provide mor
 
 # NutellaLicka
 
-#### [My KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season3/notarynodes/nutellalicka)
+#### [My 2019 KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season3/notarynodes/nutellalicka)
 
 #### Region: Southern Hemisphere
 
@@ -37,12 +37,6 @@ I have been donating not only my time, but also my NN funds, towards the KMD com
 
 #### CHIPS DONATION DETAILS
 CHIPS Multi-Sig Donation Address: [bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS](http://kmd.explorer.dexstats.info/address/bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS)
-
-As of 20th Dec 2019
-
-Blocks found:
-
-2475
 
 #### Donations:
 11 Sep 19: 288.99 (10%) [b8303b955386f43abf54ee4885abc15fc5e827c1c61a6f13a4e5368af5696a4d](http://kmd.explorer.dexstats.info/tx/b8303b955386f43abf54ee4885abc15fc5e827c1c61a6f13a4e5368af5696a4d)
