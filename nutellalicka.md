@@ -92,35 +92,17 @@ CHIPS Multi-Sig Donation Address: [bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS](http://km
 
 19 Feb 20: 331.2‬ (15%) [2d2902cdbf112b70b0b2fe61a7fc15c017df955ebddb05fe7988228b24c48df2](http://kmd.explorer.dexstats.info/tx/2d2902cdbf112b70b0b2fe61a7fc15c017df955ebddb05fe7988228b24c48df2)
 
-#### Total Donated: 1,577.25‬ KMD
+--
+
+22 May 20: 1030 (15%) [ecde50632993795a484fa201b65b84b7f8927e3761f16ef19090c0e4bddafc7c]
+(http://kmd.explorer.dexstats.info/tx/ecde50632993795a484fa201b65b84b7f8927e3761f16ef19090c0e4bddafc7c)
+
+--
+
+#### Total Donated: 2,607.25‬ KMD
 
 I hope this provides KMD ecosystem members with a clearer picture of what I have been up to, and how I have been contributing, whilst a KMD Notary Node. If you are considering who to vote for in future KMD NN elections, please take this information into account.
 
 Cheers,
 
 NutellaLicka
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-### Shout outs
-I just wanted to use this as a place to shed light on the hard work that other NN's have been doing. If you're looking for other NN's to vote for, or would like to learn more about NN's in the ecosystem, check out the efforts from the people below. There are many more quietly achieving a lot throughout the ecosystem and to those, I thank you as well.
-
-#### SHossain#0007
-For your tireless efforts to keep the NN network running smoothly. Although labelled with a "team" tagged, people may not realise you donate most of your time and effort.
-
-#### hyperDEX#6586
-Although currently not a NN, you have been in the past. A shoutout for generating huge amounts of development in the CHIPS community.
-
-#### CHMEX#0686
-The quiet achiever. Your dextstats website and explorers are invaluable.
