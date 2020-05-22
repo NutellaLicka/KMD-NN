@@ -4,10 +4,11 @@ I will use this repo to list relevant KMD NN activities, in order to provide mor
 # NutellaLicka
 
 #### [My 2019 KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season3/notarynodes/nutellalicka)
+#### [My 2020 KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season4/candidates/NutellaLicka)
 
 #### Region: Southern Hemisphere
 
-## Addresses
+## 2019 Addresses
 #### NN Main Address:
 BTC: `17iWaZDPursCC78EpnKpU2Kak4VwvgDxug` 
 
@@ -22,6 +23,24 @@ EMC2: `EdHW8kN8SLvATZZP5qn8LwJsL1uhM6C9Qg`
 
 Gin: `GdyX4HrZzFEYYjFpCwSimZfoUYCQuTFen5`
 
+## 2020 Addresses
+#### NN Main Address:
+BTC: `1EHrBp5qpthQtw2wyGqsA1gU6o5eVTphgq`
+
+KMD: `RNa3GKy8RiVyxwQ9SSpzFY1fs4YFCD1Vzs`
+
+#### NN 3rd Party
+KMD: `RQcyySYZ2zTkPUm9S4KgE98M9NmNqwpLnA`
+
+GAME: `GZBiK3zDR2GUPwhEtpzfZP93JH6dEWSV4F`
+
+EMC2: `EYVhPWVms7x6JmzomjL58kn79kougAzm2t`
+
+GIN: `GZBiK3zDR2GUPwhEtpzfZP93JH6dEWSV4F`
+
+AYA: `AX7fYRWtmKKL8SbwXXztHW4EriEUWe7buT`
+
+ETH/ERC20: `0x2eA92c2D5DB886d759B1070e55357937c74E90bb`
 
 ## Information Updates
 Unfortunately, unlike I proposed, I was only able to get my server located in Melbourne, Australia. This seems to be having a negative affect on my notarising ability, due to the ping to other nodes throughout the world. It is a known issue of iguana that the worse the connectivity/ping, the less likely you will participate in notarisations. This issue is being worked on by iguana devs, albeit slowly.
