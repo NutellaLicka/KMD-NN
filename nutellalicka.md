@@ -94,8 +94,7 @@ CHIPS Multi-Sig Donation Address: [bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS](http://km
 
 --
 
-22 May 20: 1030 (15%) [ecde50632993795a484fa201b65b84b7f8927e3761f16ef19090c0e4bddafc7c]
-(http://kmd.explorer.dexstats.info/tx/ecde50632993795a484fa201b65b84b7f8927e3761f16ef19090c0e4bddafc7c)
+19 Feb 20: 1030‬ (15%) [ecde50632993795a484fa201b65b84b7f8927e3761f16ef19090c0e4bddafc7c](http://kmd.explorer.dexstats.info/tx/ecde50632993795a484fa201b65b84b7f8927e3761f16ef19090c0e4bddafc7c)
 
 --
 
