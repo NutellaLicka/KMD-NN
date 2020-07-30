@@ -8,21 +8,6 @@ I will use this repo to list relevant KMD NN activities, in order to provide mor
 
 #### Region: Southern Hemisphere
 
-## 2019 Addresses
-#### NN Main Address:
-BTC: `17iWaZDPursCC78EpnKpU2Kak4VwvgDxug` 
-
-KMD: `RFzhf56gWgfmG7VSHxJwZYenWKxYdHhxUh` 
-
-#### NN 3rd Party
-KMD: `RVQnigQucDRpYGKikAmjSKf7KdsAZYmZHL` 
-
-Game: `GdyX4HrZzFEYYjFpCwSimZfoUYCQuTFen5` 
-
-EMC2: `EdHW8kN8SLvATZZP5qn8LwJsL1uhM6C9Qg` 
-
-Gin: `GdyX4HrZzFEYYjFpCwSimZfoUYCQuTFen5`
-
 ## 2020 Addresses
 #### NN Main Address:
 BTC: `1EHrBp5qpthQtw2wyGqsA1gU6o5eVTphgq`
@@ -94,11 +79,16 @@ CHIPS Multi-Sig Donation Address: [bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS](http://km
 
 --
 
-19 Feb 20: 1030‬ (15%) [ecde50632993795a484fa201b65b84b7f8927e3761f16ef19090c0e4bddafc7c](http://kmd.explorer.dexstats.info/tx/ecde50632993795a484fa201b65b84b7f8927e3761f16ef19090c0e4bddafc7c)
+22 May 20: 1030‬ (15%) [ecde50632993795a484fa201b65b84b7f8927e3761f16ef19090c0e4bddafc7c](http://kmd.explorer.dexstats.info/tx/ecde50632993795a484fa201b65b84b7f8927e3761f16ef19090c0e4bddafc7c)
 
 --
 
-#### Total Donated: 2,607.25‬ KMD
+30 July 20: 374 (15%) [c4b2df716050b3aa63af724a0e41fe570e4c38f6d1650a26e8fc07239d1af324](http://kmd.explorer.dexstats.info/tx/c4b2df716050b3aa63af724a0e41fe570e4c38f6d1650a26e8fc07239d1af324)
+
+--
+
+
+#### Total Donated: 2,981.4‬ KMD
 
 I hope this provides KMD ecosystem members with a clearer picture of what I have been up to, and how I have been contributing, whilst a KMD Notary Node. If you are considering who to vote for in future KMD NN elections, please take this information into account.
 
