@@ -95,7 +95,11 @@ CHIPS Multi-Sig Donation Address: [bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS](http://km
 
 --
 
-#### Total Donated: 3,789.75‬ KMD
+11 March 21: 987.3 (15%) [787d5b5eb51564583263692a0f2ea7bfb7b2bfadf7ebebae5cd4e91362b876e3](http://kmd.explorer.dexstats.info/tx/787d5b5eb51564583263692a0f2ea7bfb7b2bfadf7ebebae5cd4e91362b876e3)
+
+--
+
+#### Total Donated: 4,777.05‬ KMD
 
 I hope this provides KMD ecosystem members with a clearer picture of what I have been up to, and how I have been contributing, whilst a KMD Notary Node. If you are considering who to vote for in future KMD NN elections, please take this information into account.
 
