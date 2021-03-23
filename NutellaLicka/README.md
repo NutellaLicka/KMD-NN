@@ -2,14 +2,14 @@
 
 #### Region: Southern Hemisphere
 
-### **SH** region VOTE2020 address : `RB47JxCEPrGSDBauDQiKF8dgxqUYMdUhHj`
+### **SH** region VOTE2020 address : `RUjxoAzgnSrsiiup2ucmfJRrXxTHzNnhFE`
 
-## 5 Reasons to vote for NutellaLicka (in case you don't read any further)
+## :pushpin: 5 Reasons to vote for NutellaLicka (in case you don't read any further)
 - :gift: [Community Development Donations](https://github.com/NutellaLicka/KMD-NN/blob/master/nutellalicka.md)
-- :link: Decentralised NN Servers
 - :telephone_receiver: [Always Contactable](https://komodoplatform.com/discord)
-- :trophy: Proven Reliability over 2 seasons
+- :trophy: Proven reliability over 2 seasons
 - :speech_balloon: Always contributing time and effort to bettering the ecosystem
+- :milky_way: Decentralised NN servers
 
 ## :pushpin: About Me
 
@@ -52,12 +52,11 @@ I will be providing the Southern Hemisphere with nodes (main & 3rd party) locate
 
 ## :pushpin: Contact Details
 
-### Discord
+### :computer: Discord
 - @NutellaLicka#4241 
 
-[![Discord](https://img.shields.io/discord/302123079818149888.svg?style=for-the-badge&logo=discord)](https://komodoplatform.com/discord)
-[![Discord](https://img.shields.io/discord/302123079818149888.svg?style=for-the-badge&logo=discord)](https://discord.gg/DZvuAR6QzX)
+- [Komodo Discord](https://komodoplatform.com/discord)
 - [Tokel Discord](https://discord.gg/DZvuAR6QzX)
 
-### Email
+### :email: Email
 NutellaLicka@protonmail.com
