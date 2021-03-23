@@ -53,7 +53,7 @@ I will be providing the Southern Hemisphere with nodes (main & 3rd party) locate
 ## :pushpin: Contact Details
 
 ### :computer: Discord
-- @NutellaLicka#4241 
+@NutellaLicka#4241 
 
 - [Komodo Discord](https://komodoplatform.com/discord)
 - [Tokel Discord](https://discord.gg/DZvuAR6QzX)
