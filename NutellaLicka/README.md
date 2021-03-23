@@ -6,12 +6,12 @@
 
 ## 5 Reasons to vote for NutellaLicka (in case you don't read any further)
 - :gift: [Community Development Donations](https://github.com/NutellaLicka/KMD-NN/blob/master/nutellalicka.md)
-- :link: [Decentralised NN Servers](https://atomicdex.io/)
+- :link: Decentralised NN Servers
 - :telephone_receiver: [Always Contactable](https://komodoplatform.com/discord)
-- :trophy: [Proven Reliability over 2 seasons]
-- :speech_balloon: [Always contributing time and effort to bettering the ecosystem]
+- :trophy: Proven Reliability over 2 seasons
+- :speech_balloon: Always contributing time and effort to bettering the ecosystem
 
-:pushpin: ## About Me
+## :pushpin: About Me
 
 I have been a Southern Hemisphere KMD Notary Node operator and community contributor for the last 2 seasons.
 
@@ -29,13 +29,13 @@ RNa3GKy8RiVyxwQ9SSpzFY1fs4YFCD1Vzs
 ### Season 3 Main Node Address:
 RFzhf56gWgfmG7VSHxJwZYenWKxYdHhxUh
 
-:pushpin: ## My Notary Node Goal
+## :pushpin: My Notary Node Goal
 
 As is always, my goal as a Komodo Network Notary Node is to provide a reliable, effective and efficient notarising node. The way I will achieve this is by maximising the uptime and productivity of my node through continual monitoring and optimisation. I will be available every day on Discord, github and via email in case of any required changes, or coin additions. 
 
 I believe I have successfully carried out my goal over the last two years as a NN. Although I am currently 14th in the SH region for 'score', I believe I have been one of the first to commit to major changes in my region and have been an active contributer throughout the community.
 
-:pushpin: ## Community Development Funds
+## :pushpin: Community Development Funds
 
 #### Total donated to date: 4,777.05‬ KMD
 You can find donation verification over at my KMD-NN repo. I put all of my important NN information there for transparency purposes and keep updates going throughout the season whenever I do the transactions.
@@ -46,11 +46,11 @@ Over the past 2 seasons as a Notary Node, I have been donating a portion of my r
 This year, I will donate 10% of my NN rewards to projects I believe have great potential. These funds can be used as the project sees fit, but will be intended to help pay for dev costs/marketing initiatives/project improvement, etc. Initially this will continue to fund CHIPS development (as I have been doing for the last 2 seasons). Following that, I will continue to consider other KMD projects that I believe will improve the ecosystem as a whole.
 If anyone has requests or suggestions for fund allocations, shoot me a message, I would love to hear your thoughts. 
 
-:pushpin: ## Server Specifications
+## :pushpin: Server Specifications
 
 I will be providing the Southern Hemisphere with nodes (main & 3rd party) located in a data centre in Melbourne. As I stand for in every election, I believe this aids in the decentralisation and reduces the reliability on the main stream server hosting providers, by providing another critical SH node that isn't located in the same data centre as others. This decision has hurt my nodes connectivity to other Notary Nodes, and in turn hurt my Notary Node score. I still standby the need for decentralised distribution of the NN servers.
 
-:pushpin: ## Contact Details
+## :pushpin: Contact Details
 
 ### Discord
 - @NutellaLicka#4241 
