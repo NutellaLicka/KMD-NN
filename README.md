@@ -1,48 +1,84 @@
 # KMD-NN
-I will use this repo to list relevant KMD NN activities, in order to provide more transparency to KMD voters. If you have any questions, hit me up on the [Komodo Discord](https://komodoplatform.com/discord) (@NutellaLicka#4241), or email me at minethechain@protonmail.com.
+I will use this repo to list relevant KMD NN activities, in order to provide more transparency to KMD voters. If you have any questions, hit me up on the [Tokel Discord](http://discord.tokel.io/), [Komodo Discord](https://komodoplatform.com/discord) (@NutellaLicka#4241), or email me at nutellalicka@protonmail.com.
 
 # NutellaLicka
 
 #### [My 2019 KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season3/notarynodes/nutellalicka)
 #### [My 2020 KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season4/candidates/NutellaLicka)
+#### [My 2021 KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season5/candidates/nutellalicka)
 
 #### Region: Southern Hemisphere
 
-## 2020 Addresses
+## 2021 Addresses
 #### NN Main Address:
-BTC: `1EHrBp5qpthQtw2wyGqsA1gU6o5eVTphgq`
+LTC: `LKewiiEXMtbqzRJKJQd92UvZkqRFSPUBEw`
 
-KMD: `RNa3GKy8RiVyxwQ9SSpzFY1fs4YFCD1Vzs`
+KMD: `R9iBY1oyt4AMocyMbScxqzC1JtWa1XNN5K`
 
 #### NN 3rd Party
-KMD: `RQcyySYZ2zTkPUm9S4KgE98M9NmNqwpLnA`
+KMD: `RCaSVwp6okegmH6YRtsandgorSp4uVNDCz`
 
-GAME: `GZBiK3zDR2GUPwhEtpzfZP93JH6dEWSV4F`
+## Information Updates 
 
-EMC2: `EYVhPWVms7x6JmzomjL58kn79kougAzm2t`
+As a way to further Komodo platform adoption, I have founded the project [Tokel](https://tokel.io). The Tokel Platform aims to be the best decentralized token platform on offer. The Tokel Platform will build a solid foundation, using existing Komodo Technologies, for token projects to launch and succeed from. This will be done through the creation of end-to-end token solutions for fixed supply and non-fungible tokens (NFTs). This includes everything from the blockchain architecture, the information, assistance and open-sourced applications for projects and businesses looking to capitalize on token economics or token applications. Projects will be able to use streamlined token creation processes, have token explorer and wallet integrations, immediately trade on the decentralized exchange and utilize the NFT marketplace.
 
-GIN: `GZBiK3zDR2GUPwhEtpzfZP93JH6dEWSV4F`
+I will further Komodo technology education and adoption through my efforts on Tokel. Tokel will directly showcase and improve Komodo technologies. This project is a direct result of the education and funding I received through being voted in as a KMD NN for the past few seasons. I will continue to dedicate my time to improving the ecosystem as a whole.
 
-AYA: `AX7fYRWtmKKL8SbwXXztHW4EriEUWe7buT`
+## Community Donation Fund
+In past years, I had been committing 15% of the NN mining rewards to community projects as donations. In S5, I once again committed to donationg community projects and initiatives. This season I will be donating 10% of the NN mining rewards. Below are the details of my donations, with specific details of each.
 
-ETH/ERC20: `0x2eA92c2D5DB886d759B1070e55357937c74E90bb`
+I have been donating not only my time, but also my NN funds, towards the KMD community project, CHIPS. 
 
-## Information Updates
-Unfortunately, unlike I proposed, I was only able to get my server located in Melbourne, Australia. This seems to be having a negative affect on my notarising ability, due to the ping to other nodes throughout the world. It is a known issue of iguana that the worse the connectivity/ping, the less likely you will participate in notarisations. This issue is being worked on by iguana devs, albeit slowly.
+I have recently started donating funds towards improving Komodo ecosystem based media content. You can find details below.
 
-During the year, I had to close my KMD ecosystem mining pool, minethechains.com. I had my pool running for just under a year, until Nov 19. Unfortunately it was being heavily underutilised and cost quite a bit to continute to run. I believe my funds and time were best allocated toward other parts of the ecosystem.
+#### CHIPS donation details
+I have donated a total of 4777.05 KMD to the CHIPS multi-sig donation fund over multiple seasons. You can find details for S4 at the bottom of this page. This fund is being used to fund CHIPS related development, such as a GUI, and backend development. You can find out more information about CHIPS at their [discord](https://discord.gg/SQCSa2X).
+Old CHIPS Multi-Sig Donation Address: [bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS](http://kmd.explorer.dexstats.info/address/bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS)
+New CHIPS Multi-Sig Donation Address: [baDUReWhg98MCWdy2UfnxMdKpdVg1txmw5](http://kmd.explorer.dexstats.info/address/baDUReWhg98MCWdy2UfnxMdKpdVg1txmw5)
 
-I have been an active member of the KMD community and have been accessible and swiftly updated my node for every major KMD update. I have been amongst the first NN's to add coins to the dPoW mechanism when needed. 
 
-## Community Fund
-As commited in my NN proposal, I have been putting 15% of my NN mining rewards towards community project donations. Below are the details of my donations, with specific details of each. I realised I wasn't donating the full 15% up until Dec 19 and rectified the issue with another payment (the 5% I had missed for those months).
 
-I have been donating not only my time, but also my NN funds, towards the KMD community project, CHIPS. This fund is being used to fund CHIPS related development, such as a GUI, and backend development. You can find out more information about CHIPS at their [discord](https://discord.gg/SQCSa2X).
+#### S5 Donation log:
 
-#### CHIPS DONATION DETAILS
-CHIPS Multi-Sig Donation Address: [bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS](http://kmd.explorer.dexstats.info/address/bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS)
+--
+To be updated
 
-#### Donations:
+
+--
+
+
+
+--
+
+
+
+
+#### Total Donated: 4,777.05‬ KMD
+
+I hope this provides KMD ecosystem members with a clearer picture of what I have been up to, and how I have been contributing, whilst a KMD Notary Node. If you are considering who to vote for in future KMD NN elections, please take this information into account.
+
+Cheers,
+
+NutellaLicka
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Donations Log:
+
+#### S4:
+
 11 Sep 19: 288.99 (10%) [b8303b955386f43abf54ee4885abc15fc5e827c1c61a6f13a4e5368af5696a4d](http://kmd.explorer.dexstats.info/tx/b8303b955386f43abf54ee4885abc15fc5e827c1c61a6f13a4e5368af5696a4d)
 
 20 Dec 19: 144.495 (5%) [66dd71d69e5ba51847d74ba8deab5e7eb4e393fcafb54d17e2f2feeb24b2ba7d](http://kmd.explorer.dexstats.info/tx/66dd71d69e5ba51847d74ba8deab5e7eb4e393fcafb54d17e2f2feeb24b2ba7d)
@@ -99,10 +135,14 @@ CHIPS Multi-Sig Donation Address: [bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS](http://km
 
 --
 
-#### Total Donated: 4,777.05‬ KMD
+17 Nov 21: 685.3 (15%) [***](http://kmd.explorer.dexstats.info/tx/***)
 
-I hope this provides KMD ecosystem members with a clearer picture of what I have been up to, and how I have been contributing, whilst a KMD Notary Node. If you are considering who to vote for in future KMD NN elections, please take this information into account.
+--
 
-Cheers,
+## Information Updates Archive
+Unfortunately, unlike I proposed, I was only able to get my server located in Melbourne, Australia. This seems to be having a negative affect on my notarising ability, due to the ping to other nodes throughout the world. It is a known issue of iguana that the worse the connectivity/ping, the less likely you will participate in notarisations. This issue is being worked on by iguana devs, albeit slowly.
 
-NutellaLicka
+During the year, I had to close my KMD ecosystem mining pool, minethechains.com. I had my pool running for just under a year, until Nov 19. Unfortunately it was being heavily underutilised and cost quite a bit to continute to run. I believe my funds and time were best allocated toward other parts of the ecosystem.
+
+I have been an active member of the KMD community and have been accessible and swiftly updated my node for every major KMD update. I have been amongst the first NN's to add coins to the dPoW mechanism when needed. 
+
