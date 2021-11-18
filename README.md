@@ -36,7 +36,10 @@ I have donated a total of 4777.05 KMD to the CHIPS multi-sig donation fund over 
 Old CHIPS Multi-Sig Donation Address: [bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS](http://kmd.explorer.dexstats.info/address/bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS)
 New CHIPS Multi-Sig Donation Address: [baDUReWhg98MCWdy2UfnxMdKpdVg1txmw5](http://kmd.explorer.dexstats.info/address/baDUReWhg98MCWdy2UfnxMdKpdVg1txmw5)
 
+#### Media creation initiative
+I have decided to branch out to try and spur innovation and help incubate different aspects of the Komodo ecosystem. This season, I will be donating to the community contributor @ejuliano to produce video and audio content on everything Komodo community related. This media takes a dedicated amount of time and effort to produce. Ejuliano has been doing this off his own back, with no expectation of anything in return. I believe the initiative shown to produce such content without expectation is worthy of recognition. These donation funds are a token of my appreciation for his efforts and to assist in developing further content.
 
+You can find his content at the [Komodo Unofficial Youtube](https://www.youtube.com/channel/UCyeJPBxjumDsJct6VuuAD0Q/playlists)
 
 #### S5 Donation log:
 
@@ -135,7 +138,7 @@ NutellaLicka
 
 --
 
-17 Nov 21: 685.3 (15%) [***](http://kmd.explorer.dexstats.info/tx/***)
+17 Nov 21: 838.99 (15%) (Last donation in S4 to Media Content) [b5019a0f479affcd3d777280a0f01612cbbeae1def6827d7c626b261d5e6d7ed](http://kmd.explorer.dexstats.info/tx/b5019a0f479affcd3d777280a0f01612cbbeae1def6827d7c626b261d5e6d7ed)
 
 --
 
