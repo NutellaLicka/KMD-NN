@@ -3,9 +3,9 @@ I will use this repo to list relevant KMD NN activities, in order to provide mor
 
 # NutellaLicka
 
-#### [My 2019 KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season3/notarynodes/nutellalicka)
-#### [My 2020 KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season4/candidates/NutellaLicka)
-#### [My 2021 KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season5/candidates/nutellalicka)
+#### [My Season 3 KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season3/notarynodes/nutellalicka)
+#### [My Season 4 KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season4/candidates/NutellaLicka)
+#### [My Season 5 KMD NN Proposal](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season5/candidates/nutellalicka)
 
 #### Region: Southern Hemisphere
 
