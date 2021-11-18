@@ -31,12 +31,12 @@ I have been donating not only my time, but also my NN funds, towards the KMD com
 
 I have recently started donating funds towards improving Komodo ecosystem based media content. You can find details below.
 
-#### CHIPS donation details
+#### CHIPS donation details - 4777.05 KMD
 I have donated a total of 4777.05 KMD to the CHIPS multi-sig donation fund over multiple seasons. You can find details for S4 at the bottom of this page. This fund is being used to fund CHIPS related development, such as a GUI, and backend development. You can find out more information about CHIPS at their [discord](https://discord.gg/SQCSa2X).
 Old CHIPS Multi-Sig Donation Address: [bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS](http://kmd.explorer.dexstats.info/address/bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS)
 New CHIPS Multi-Sig Donation Address: [baDUReWhg98MCWdy2UfnxMdKpdVg1txmw5](http://kmd.explorer.dexstats.info/address/baDUReWhg98MCWdy2UfnxMdKpdVg1txmw5)
 
-#### Media creation initiative
+#### Media creation initiative - 838.99 KMD
 I have decided to branch out to try and spur innovation and help incubate different aspects of the Komodo ecosystem. This season, I will be donating to the community contributor @ejuliano to produce video and audio content on everything Komodo community related. This media takes a dedicated amount of time and effort to produce. Ejuliano has been doing this off his own back, with no expectation of anything in return. I believe the initiative shown to produce such content without expectation is worthy of recognition. These donation funds are a token of my appreciation for his efforts and to assist in developing further content.
 
 You can find his content at the [Komodo Unofficial Youtube](https://www.youtube.com/channel/UCyeJPBxjumDsJct6VuuAD0Q/playlists)
@@ -56,7 +56,7 @@ To be updated
 
 
 
-#### Total Donated: 4,777.05‬ KMD
+#### Total Donated: 5,616.04‬ KMD
 
 I hope this provides KMD ecosystem members with a clearer picture of what I have been up to, and how I have been contributing, whilst a KMD Notary Node. If you are considering who to vote for in future KMD NN elections, please take this information into account.
 
