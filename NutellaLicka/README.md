@@ -23,7 +23,7 @@ Last year I founded the [Tokel](https://tokel.io) project. Tokel aims to be the 
 
 In summary, I have been an active member in the KMD community over the last few years, assisting in multiple projects around the ecosystem. I will continue to donate my KMD NN rewards, my time and my effort to KMD community projects, building and educating people on what is already a fantastic stack of technology to use.
 
-### Season 4 Main Node Address:
+### Season 5 Main Node Address:
 R9iBY1oyt4AMocyMbScxqzC1JtWa1XNN5K
 
 ### Season 4 Main Node Address:
