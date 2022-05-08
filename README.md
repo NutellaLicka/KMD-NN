@@ -36,7 +36,7 @@ I have donated a total of 4777.05 KMD to the CHIPS multi-sig donation fund over 
 Old CHIPS Multi-Sig Donation Address: [bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS](http://kmd.explorer.dexstats.info/address/bRFaD5CPeb7jVENWf65CoVEADZUVYW2FoS)
 New CHIPS Multi-Sig Donation Address: [baDUReWhg98MCWdy2UfnxMdKpdVg1txmw5](http://kmd.explorer.dexstats.info/address/baDUReWhg98MCWdy2UfnxMdKpdVg1txmw5)
 
-#### Media creation initiative - 838.99 KMD
+#### Media creation initiative - 1,774.66 KMD
 I have decided to branch out to try and spur innovation and help incubate different aspects of the Komodo ecosystem. This season, I will be donating to the community contributor @ejuliano to produce video and audio content on everything Komodo community related. This media takes a dedicated amount of time and effort to produce. Ejuliano has been doing this off his own back, with no expectation of anything in return. I believe the initiative shown to produce such content without expectation is worthy of recognition. These donation funds are a token of my appreciation for his efforts and to assist in developing further content.
 
 You can find his content at the [Komodo Unofficial Youtube](https://www.youtube.com/channel/UCyeJPBxjumDsJct6VuuAD0Q/playlists)
@@ -44,19 +44,14 @@ You can find his content at the [Komodo Unofficial Youtube](https://www.youtube.
 #### S5 Donation log:
 
 --
-To be updated
+
+08 May 22: 935.67 (10%) (Ejuliano Media Content) [933675a31a86c27e33eb7b36d9c83903cf18038bad770aef929d245153326357](https://kmdexplorer.io/tx/933675a31a86c27e33eb7b36d9c83903cf18038bad770aef929d245153326357)
 
 
 --
 
 
-
---
-
-
-
-
-#### Total Donated: 5,616.04‬ KMD
+#### Total Donated: 6,551.71 KMD
 
 I hope this provides KMD ecosystem members with a clearer picture of what I have been up to, and how I have been contributing, whilst a KMD Notary Node. If you are considering who to vote for in future KMD NN elections, please take this information into account.
 
@@ -78,7 +73,7 @@ NutellaLicka
 
 
 
-#### Donations Log:
+#### Previous Season Donations Log:
 
 #### S4:
 
@@ -141,6 +136,7 @@ NutellaLicka
 17 Nov 21: 838.99 (15%) (Last donation in S4 to Media Content) [b5019a0f479affcd3d777280a0f01612cbbeae1def6827d7c626b261d5e6d7ed](http://kmd.explorer.dexstats.info/tx/b5019a0f479affcd3d777280a0f01612cbbeae1def6827d7c626b261d5e6d7ed)
 
 --
+
 
 ## Information Updates Archive
 Unfortunately, unlike I proposed, I was only able to get my server located in Melbourne, Australia. This seems to be having a negative affect on my notarising ability, due to the ping to other nodes throughout the world. It is a known issue of iguana that the worse the connectivity/ping, the less likely you will participate in notarisations. This issue is being worked on by iguana devs, albeit slowly.
